@@ -2,7 +2,7 @@
 Things I've learned: 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/303251/database.svg" width="40" height="40" title="SQL"/>
 </p>
 
 I'm currently learning C++ 14/17.
