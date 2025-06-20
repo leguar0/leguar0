@@ -1,4 +1,12 @@
 ## Hi there, I'm Norbert 👋
+This which I have been learning: 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</p>
+
+I'm currently learning C++ 14/17.
+And I'm expanding my knowledge in Valgrind and CMake.
 
 <!--
 **leguar0/leguar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
